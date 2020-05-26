@@ -2,6 +2,10 @@
   color: red;
 }
 
+button {
+margin: 0 25% 0 25%;
+}
+
 img {
   display: block;
   margin-left: auto;
